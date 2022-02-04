@@ -1,0 +1,333 @@
+
+.sect1{
+    background-image: url(../img/ForsideBambus.png);
+    background-position: center;
+    background-size: cover;
+    height: 248px;
+    margin: 116px 28px 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.sect1 button{
+    position: absolute;
+    border-style: solid;
+    color: #FFFFFF;
+    width: 161px;
+    height: 67px;
+    font-size: 27px;
+    cursor: pointer;
+    background-color: rgba(92, 51, 123, 0.75);
+    border-radius: 43px;
+    box-shadow: 0 40px 50px 40 rgba(0, 0, 0, 0, 0) 6px 20px 40 rgba(0, 0, 0, 0, 0);
+    text-transform: uppercase;
+}
+.sect2{
+    background-image: url(../img/ForsideSort.png);
+    background-position: center;
+    background-size: cover;
+    height: 195px;
+    margin: 0px 28px 34px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.sect2 p{
+    font-size: 17px;
+    color: #FFFFFF;
+    height: 114px;
+    width: 210px;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: left;
+    padding-right: 21px;
+
+
+}
+.sect3{
+    background-image: url(../img/ForsideGravid.png);
+    background-position: center;
+    background-size: cover;
+    height: 216px;
+    margin: 0px 28px 34px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.sect3 p{
+    font-size: 17px;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px #000000;
+    width: 145px;
+    text-align: left;
+    padding-left: 23px;
+}
+.sect4{
+    background-image: url(../img/rødtrøje-lang.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 653px;
+    margin: 0px 28px 68px 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sect4 button
+{
+    position: absolute;
+    border-style: none;
+    color: #FFFFFF;
+    width: 247px;
+    height: 108px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: rgba(92, 51, 123, 0.75);
+    border-radius: 54px;
+    text-transform: uppercase;
+}
+
+.sect5
+{
+    text-align: center;
+    margin: 0px 28px 68px 28px;
+    
+
+}
+.sect5 h2
+{
+    color: #84659B;
+    background-color: #FFFFFF;
+    font-size: 30px;
+    padding: 17px 34px;
+    border-width: 1px;
+    border-color: #5C337B;
+    border-style: solid;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.sect5 article
+{
+    background-color: #B6979D;
+    clear: both;
+    height: 245px;
+    
+}
+.badges
+{
+    height: 32px;
+    width: 32px;
+    margin-top: 80px;
+}
+
+.sect5 article h3
+{
+    font-size: 25px;
+    color: #FFFFFF; 
+    padding-top: 20px;
+    
+}
+
+.billeder
+{
+    height: 245px;
+    width: 50%;
+    float: left;
+    object-fit: cover;
+    object-position: center;
+
+}
+.right {
+    float: right;
+}
+
+
+/*Side med shirts*/
+
+.fa-arrow-left
+{
+   position: absolute;
+   top: -2px;
+   left: 10px;
+   
+}
+
+.trøjer
+{
+    height: 292px;
+    width: 228px;
+    object-fit: cover;
+    object-position: center;
+       
+}
+
+.shirts2 article
+{
+    background-color: #B6979D;
+    height: 292px; 
+    width: 360px;
+    margin: 125px 28px 28px;
+    clear: both;
+    
+    
+
+}
+
+.shirts2 h3
+{
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: -3px;
+}
+
+.shirts2 p
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -20px;
+}
+
+
+
+
+/*Side til greenshirt*/
+
+.grøn-trøje
+{
+    height: 291px;
+    width: 227px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 110px;
+    
+}
+
+.greenshirt article
+{
+    background-color: #B6979D;
+    clear: both;
+    height: 291px; 
+    width: 360px;
+    margin: 125px 28px 28px;
+}
+
+.greenshirt h3
+{
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 2px;   
+}
+
+.pris 
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -20px;   
+}
+
+.beskrivelse 
+{
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 10px;    
+} 
+
+.mærker
+{
+    height: 32px;
+    width: 32px;
+
+}
+
+.størrelse-tilføj
+{
+    margin-top: 220px;
+    padding-left: 28px;
+}
+
+
+.F-R-D
+{
+    margin-top: 70px;
+    padding-left: 30px;
+    font-size: 13;
+    font-weight: bold;
+    color: #5C337B;
+    
+}
+
+.far
+{
+    font-size: 24px;
+    color: #5C337B;
+
+}
+
+.fa-undo
+{
+    font-size: 24px;
+    color: #5C337B;
+}
+
+.fa-truck
+{
+    font-size: 24px;
+    color: #5C337B; 
+}
+
+.fa-arrow-left
+{
+    padding-top: 100px;
+    padding-left: 15px;
+    
+}
+
+
+/* kontakt os */
+
+.kontaktOsBody
+{
+    display: flex;
+    justify-content: center;
+    background-image: url(../img/OmUsBaggrund.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sectP p
+{
+    text-shadow: 2px 2px 4px #000000;
+    color: #5C337B;
+}
+
+.p1
+{
+    margin-top: 16px;
+    padding-bottom: 23px;
+}
+
+.p2
+{
+    margin-bottom: 16px;
+}
+
+.someKontakt
+{
+    margin-bottom: 23px;
+}
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+   
